@@ -38,7 +38,7 @@ export const awrapper = [
   {
     cover: "https://img.icons8.com/ios/80/ffffff/macbook-idea--v3.png",
     data: "587",
-    title: "COURSES",
+    title: "RESOURCES",
   },
 ]
 export const coursesCard = [

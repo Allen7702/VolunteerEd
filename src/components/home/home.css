@@ -1,0 +1,231 @@
+/*noinspection CssUnknownTarget*/
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+*
+
+
+.donation
+{
+  padding: 100px;
+  text-align: center;
+}
+.donation .heading
+{
+  padding-bottom: 15px;
+}
+.donation .background img
+{
+  position: absolute;
+  left: 0;
+  width: calc(100% + 200px);
+  height: 100vh;
+  margin-left: -100px;
+  margin-top: -100px;
+  padding-top: 55px;
+}
+.donation .container
+{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 60px;
+}
+
+.donation .container .serviceBx
+{
+  position: relative;
+  background: #ffffff;
+  width: 350px;
+  height: 400px;
+  display: flex;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+}
+.donation .container .serviceBx img
+{
+  max-width: 256px;
+}
+.donation .container .serviceBx h2
+{
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+.donation .container .serviceBx span
+{
+  position: absolute;
+  align-items: center;
+  bottom: 20px;
+}
+
+.donation-container
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  flex-wrap: wrap;
+}
+.donation-container .card
+{
+  position: relative;
+  min-width: 360px;
+  height: 440px;
+  border-radius: 15px;
+}
+.donation-container .card .box
+{
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  right: 20px;
+  bottom: 20px;
+  background: #000000;
+  border-radius: 30px;
+  box-shadow: 0 0 30px rgb(255, 255, 255, 0.3);
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.5s;
+}
+.donation-container .card:hover .box
+{
+  transform: translateY(-15px);
+  box-shadow: 0 0 40px rgba(122, 255, 0, 0.5);
+  background: #000;
+}
+.donation-container .card .box:before
+{
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  pointer-events: none;
+  background: rgba(255,255,255,0.02);
+}
+.donation-container .card .box .content
+{
+  padding: 20px;
+  text-align: center;
+}
+.donation-container .card .box  h2
+{
+  position: absolute;
+  margin-top: -220px;
+  margin-left: 140px;
+  font-size: 8em;
+  color: rgba(255, 255, 255, 0.05);
+  transition: 0.4s ease;
+}
+
+.donation-container .card .box .content h3
+{
+  font-size: 1.8em;
+  color: #ffffff;
+  z-index: 1;
+  transition: 0.4s;
+}
+.donation-container .card .box .content img
+{
+  max-height: 130px;
+  transition: 0.4s ease-in-out;
+  margin-top: 75px;
+}
+.donation-container .card:hover .box .content img
+{
+  max-height: 135px;
+  transition: 0.4s;
+  margin-top: 0;
+}
+.donation-container .card:hover .box .content h3,
+.donation-container .card:hover .box .content p
+{
+  color: rgb(255, 255, 255);
+}
+.donation-container .card .box .content a
+{
+  position: relative;
+  display: inline-block;
+  padding: 8px 10px;
+  background: #ffffff;
+  margin-top: 40px;
+  border-radius: 20px;
+  text-decoration: none;
+  font-weight: 400;
+  color: #000000;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  opacity: 0;
+  transition: 0.4s;
+}
+.donation-container .card:hover .box .content a
+{
+  padding: 8px 60px;
+  background: rgb(255, 255, 255);
+  opacity: 1;
+}
+.donation-container .card:hover .box .content a:hover
+{
+  background: rgb(220, 255, 190);
+  background-size: 400% 400%;
+  animation: donate 1s ease infinite;
+  transition: background 300ms ease;
+}
+@keyframes donate {
+  0% {
+    background: rgb(255, 255, 255);
+  }
+  50% {
+    background: rgba(255, 255, 255, 0.85);
+  }
+  100% {
+    background: rgb(255, 255, 255);
+  }
+}
+
+
+.donation .contentBx
+{
+  text-align: left;
+  padding: 70px 0 0;
+  max-width: 800px;
+}
+.donation .imgBx img
+{
+  max-width: 50px;
+}
+.partners
+{
+  background: #000000;
+  padding: 100px 100px 50px 100px;
+  text-align: left;
+}
+.partners .text
+{
+  max-width: 800px;
+  padding-bottom: 50px;
+}
+.partners .imgBx
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.partners .imgBx .ministrydefence img
+{
+  max-width: 200px;
+  margin: 20px;
+  opacity: 0.9;
+}
+
+.text-setting{
+font-size: 40px;
+}
