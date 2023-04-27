@@ -2,20 +2,20 @@ export const homeAbout = [
   {
     id: 1,
     cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
-    title: "Online Courses",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "OUR STORY",
+    desc: "Our website was founded by a group of 5 passionate individuals who wanted to make a positive impact on education in rural areas. We saw the challenges that rural schools face and recognized the potential of technology to connect people and facilitate learning. Since our launch, we have been committed to bridging the education gap in rural communities by connecting volunteering teachers with these schools.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/diploma.png",
-    title: "Earn A Certificates",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "OUR MOTTO",
+    desc: "\"Education for All\" - We believe that education is a fundamental right that should be accessible to every child, regardless of their location or socioeconomic background.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/athlete.png",
-    title: "Learn with Expert",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "OUR MISSION",
+    desc: "Our mission is to empower rural education through volunteerism by connecting passionate educators with schools in remote and underserved areas. We believe that every child deserves access to quality education, regardless of their geographical location. By leveraging the power of technology and human connection, we aim to bridge the gap between teachers and students in rural communities. Our goal is to create a community of educators who are committed to making a positive impact in the lives of children and youth, and to create a more equitable and just Tanzania through education." ,
   },
 ]
 export const awrapper = [
