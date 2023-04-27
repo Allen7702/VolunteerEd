@@ -11,12 +11,7 @@ export const Login = () => {
     return (
   <>
     <section className="toppy">
-        <h2>Home / {location.pathname.split("/")[1]}</h2>
-        <h1>Login</h1>
-      </section>
-      <div className="margin"></div>
-       
-        <div className="apple">
+    <div className="apple">
         <div className="auth-form-container">
             <h2>Login</h2>
             <form className="login-form">
@@ -29,6 +24,10 @@ export const Login = () => {
             <a href="/register">Don't have an account? Register here.</a>
         </div>
         </div>
+      </section>
+      <div className="margin"></div>
+       
+        
         </>
     )
 }

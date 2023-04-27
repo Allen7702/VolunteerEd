@@ -26,18 +26,25 @@
 .apple{
     text-align: center;
     display: flex;
-    min-height: 100vh;
     align-items: center;
     justify-content: center;
-    background: #f8f8f8 ;
+  }
+
+  .auth-form-container {
+    padding: 2rem;
+    border: 1px solid darkgray;
+    border-radius: 10px;
+    margin: 0.5rem;
+  background-color: rgba(255, 255, 255, 0.3);
+
   }
   
-  .auth-form-container, .login-form, .register-form {
+   .login-form, .register-form {
     display: flex;
     flex-direction: column;
   }
   
-  @media screen and (min-width: 600px) {
+  @media screen and (max-width: 600px) {
     .auth-form-container {
       padding: 5rem;
       border: 1px solid darkgray;
@@ -49,6 +56,7 @@
   label {
     text-align: left;
     padding: 0.25rem 0;
+    
   }
   
   input {
@@ -67,9 +75,15 @@
     cursor: pointer;
     color: black;
   }
+ 
+  button:hover {
+    color: #0f2747;
+  }
   
   a {
     margin-top: 20px;
+    font-size: 16px;
+    font-weight: 600;
     font-family: 'Poppins', sans-serif;
     background: none;
     color: black;
@@ -77,5 +91,5 @@
   }
 
   a:hover {
-    color: darkgray;
+    color: blue;
   }
