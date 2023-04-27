@@ -5,6 +5,14 @@ import "./login_register.css";
 export const Register = () => {
   // const location = useLocation();
 
+const authenticate=()=>{
+  try {
+    console.log("hello new user")
+  } catch (error) {
+    console.error(error)
+  }
+}
+
   const [email, setEmail] = useState("");
   const [password, setPass] = useState("");
 
@@ -14,7 +22,7 @@ export const Register = () => {
       <div className="apple">
         <div className="auth-form-container">
           <h2>Register</h2>
-          <form className="register-form">
+          <form className="register-form" onSubmit={authenticate}>
             <label htmlFor="email">Email</label>
             <input
               value={email}
@@ -24,7 +32,7 @@ export const Register = () => {
               id="email"
               name="email"
             />
-            <label htmlFor="password">password</label>
+            <label htmlFor="password">Password</label>
             <input
               value={password}
               onChange={(e) => setPass(e.target.value)}
