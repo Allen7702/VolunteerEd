@@ -24,12 +24,12 @@ body {
   border-radius: 50%;
   text-align: center;
   background-color: rgba(255, 255, 255, 0.3);
-  color: #1eb2a6;
+  color: #0f2747;
   transition: 0.5s;
 }
 .icon:hover {
   cursor: pointer;
-  background-color: #1eb2a6;
+  background-color: #0f2747;
   color: #fff;
 }
 a {
@@ -44,7 +44,7 @@ li {
 button {
   padding: 17px 30px;
   background-color: #fff;
-  color: #1eb2a6;
+  color: #0f2747;
   font-weight: 600;
   border: none;
   margin: 30px 10px 0 0;
@@ -60,7 +60,7 @@ button:hover {
   box-shadow: none;
 }
 .primary-btn {
-  background-color: #1eb2a6;
+  background-color: #0f2747;
   color: #fff;
 }
 
@@ -72,7 +72,7 @@ button:hover {
 #heading h3 {
   font-weight: 600;
   letter-spacing: 1px;
-  color: #1eb2a6;
+  color: #0f2747;
 }
 #heading h1 {
   font-size: 45px;
@@ -127,12 +127,12 @@ p {
 .outline-btn {
   margin: 0;
   box-shadow: none;
-  border: 2px solid #1eb2a6;
+  border: 2px solid #0f2747;
   width: 100%;
   transition: 0.5s;
 }
 .outline-btn:hover {
-  background-color: #1eb2a6;
+  background-color: #0f2747;
   color: #fff;
 }
 .grid3 {

@@ -29,10 +29,10 @@ const Header = () => {
               <Link to='/contact'>Contact</Link>
             </li>
             <li>
-              <Link to='/'>Sign in</Link>
+              <Link to='/login'>Login</Link>
             </li>
             <li>
-            <Link to='/'>Sign up</Link>
+            <Link to='/register'>Register</Link>
           </li>
           </ul>
          
