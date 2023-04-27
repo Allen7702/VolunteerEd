@@ -85,7 +85,7 @@ p {
 }
 
 .back {
-  background-image: url("../public/images/back.webp");
+  background-image: url("../public/images/kid7.jpg");
   background-size: cover;
   background-attachment: fixed;
   position: absolute;
@@ -109,7 +109,7 @@ p {
   text-transform: uppercase;
 }
 .margin {
-  margin-top: 40.3%;
+  margin-top: 37%;
 }
 .grid {
   display: grid;

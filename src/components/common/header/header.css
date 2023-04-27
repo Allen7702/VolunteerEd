@@ -13,7 +13,7 @@
 /*--------head------------*/
 /*--------header------------*/
 header {
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(255, 255, 255, 0.3);
   margin: 0 30px;
 }
 header .nav {
@@ -26,12 +26,13 @@ header ul {
   padding: 30px 20px;
 }
 header ul li a {
-  color: #fff;
-  font-weight: 500;
+  color: #000000 ;
+  font-size: 18px;
+  font-weight: 900;
   transition: 0.5s;
 }
 header ul li a:hover {
-  color: #a6a6a6;
+  color: #FFFFFF;
 }
 .start {
   background-color: #0f2747;
@@ -55,6 +56,9 @@ header ul li a:hover {
   header ul.flexSB {
     display: none;
   }
+  header ul li a:hover {
+    color: grey;
+  }
   header ul li {
     margin-bottom: 20px;
   }
@@ -72,6 +76,7 @@ header ul li a:hover {
     top: 7vh;
     left: 0;
     width: 100%;
-    background-color: #0f2747;
+  background-color: rgba(255, 255, 255, 1);
+
   }
 }
