@@ -14,7 +14,10 @@ const Footer = () => {
           <div className='box logo'>
             <h1>VolunteerEd</h1>
             <span>PLATFORM FOR VOLUNTEERING</span>
-            <p>A Platform aimed at recruitung volunteers to aid rural schools that are in need of schools.</p>
+
+            <p>"Education is the most powerful weapon you can use to change the world." - Nelson Mandela</p>
+
+
 
            
           </div>
@@ -39,20 +42,22 @@ const Footer = () => {
             </ul>
           </div>
          
+
+     
           <div className='box link'>
             <h3>Have a Questions?</h3>
             <ul>
               <li>
-              
-                COICT Dar es Salaam Tanzania
-              </li>
+             College of Information and Communication Technologies(CoICT), Kijitonyama, Dar-es-salaam, Tanzania    
+             </li>
               <li>
               
                 +255 786 508 804
               </li>
               <li>
               
-                info@volunteer.com
+                info@volunteered.com
+
               </li>
             </ul>
           </div>
