@@ -7,9 +7,9 @@ const CourseHome = () => {
   return (
     <>
       <Back title='Explore Resources' />
-      <div className="tacky">
+      <CoursesCard />
       <OnlineCourses />
-      </div>
+      
     </>
   )
 }
