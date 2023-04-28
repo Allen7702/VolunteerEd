@@ -48,13 +48,13 @@ export const coursesCard = [
     coursesName: "PHYSICS",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
-        name: "by John Smith",
+        dcover: "../images/courses/download15.png",
+        name: "by VolunteerEd",
         totalTime: "Access to a vast array of educational materials designed to cater to students in Form 1 to 6. If you are looking to revise physics concepts our platform has got you covered.",
       },
     ],
-    priceAll: "$100 All Course",
-    pricePer: "$15 per month",
+    priceAll: "",
+    pricePer: "",
   },
   {
     id: 2,
@@ -62,8 +62,8 @@ export const coursesCard = [
     coursesName: "MATHEMATICS",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
-        name: "by Ram Gurung",
+        dcover: "../images/courses/download15.png",
+        name: "by VolunteerEd",
         totalTime: "With our extensive collection of mathematics educational resources, you'll have all the tools you need to succeed.",
       },
     ],
@@ -76,9 +76,9 @@ export const coursesCard = [
     coursesName: "CHEMISTRY",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
-        name: "by Saroj Nepal",
-        totalTime: "You'll have access to a plethora of educational materials in chemistry catered to students in Form 1 to 6.",
+        dcover: "../images/courses/download15.png",
+        name: "by VolunteerEd",
+        totalTime: "In this portion you'll have access to a plethora of educational materials in chemistry catered to students in Form 1 to 6.",
       },
     ],
     priceAll: "$50 All Course",
@@ -90,9 +90,9 @@ export const coursesCard = [
     coursesName: "BIOLOGY",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
-        name: "by Prabin Thapa Mager",
-        totalTime: "You'll have an extensive range of biology educational resources at your fingertips that cater to the needs of students in Form 1 to 6.",
+        dcover: "../images/courses/download15.png",
+        name: "by VolunteerEd",
+        totalTime: "In this segment you'll have an extensive range of biology educational resources at your fingertips that cater to the needs of students in Form 1 to 6.",
       },
     ],
     priceAll: "$30 All Course",
@@ -104,9 +104,9 @@ export const coursesCard = [
     coursesName: "KISWAHILI",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
-        name: "by Sunil Bishowkaram",
-        totalTime: "You'll be able to access a diverse range of kiswhili educational resources that suit the needs of students in Form 1 to 6 through our platform.",
+        dcover: "../images/courses/download15.png",
+        name: "by VolunteerEd",
+        totalTime: "Here, you'll be able to access a diverse range of kiswhili educational resources that suit the needs of students in Form 1 to 6 through our platform.",
       },
     ],
     priceAll: "$300 All Course",
@@ -118,9 +118,9 @@ export const coursesCard = [
     coursesName: "ENGLISH",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
-        name: "by Sunil Bishowkaram",
-        totalTime: "Our platform provides a broad spectrum of English educational materials designed to accommodate students from Form 1 to 6.",
+        dcover: "../images/courses/download15.png",
+        name: "by VolunteerEd",
+        totalTime: "This area provides a broad spectrum of English educational materials designed to accommodate students from Form 1 to 6.",
       },
     ],
     priceAll: "$500 All Course",
@@ -132,9 +132,9 @@ export const coursesCard = [
     coursesName: "HISTORY",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
-        name: "by Price",
-        totalTime: "20 lectures (50 hrs)",
+        dcover: "../images/courses/download15.png",
+        name: "by VolunteerEd",
+        totalTime: "This section provides a comprehensive range of history educational resources for students in Form 1 to 6.",
       },
     ],
     priceAll: "$20 All Course",
@@ -146,9 +146,9 @@ export const coursesCard = [
     coursesName: "CIVICS",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
-        name: "by Petter",
-        totalTime: "80 lectures (200 hrs)",
+        dcover: "../images/courses/download15.png",
+        name: "by VolunteerEd",
+        totalTime: "This piece in our platform has an impressive collection civics of educational resources for students in Form 1 to 6.",
       },
     ],
     priceAll: "$200 All Course",
@@ -160,9 +160,9 @@ export const coursesCard = [
     coursesName: "GEOGRAPHY",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
-        name: "by Petter",
-        totalTime: "50 lectures (50 hrs)",
+        dcover: "../images/courses/download15.png",
+        name: "by VolunteerEd",
+        totalTime: "This section provides a comprehensive range of geography educational resources for students in Form 1 to 6.",
       },
     ],
     priceAll: "$20 All Course",
@@ -174,9 +174,9 @@ export const coursesCard = [
     coursesName: "ICT",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
-        name: "by Ram Gurung",
-        totalTime: "30 lectures (125 hrs)",
+        dcover: "../images/courses/download15.png",
+        name: "by VolunteerEd",
+        totalTime: "If you're looking for ICT educational materials for students in Form 1 to 6, well this is the right place to be.",
       },
     ],
     priceAll: "$200 All Course",
@@ -188,9 +188,9 @@ export const coursesCard = [
     coursesName: "BOOKKEEPING",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
-        name: "by Ram Gurung",
-        totalTime: "30 lectures (125 hrs)",
+        dcover: "../images/courses/download15.png",
+        name: "by VolunteerEd",
+        totalTime: "Here, you'll be able to access a diverse range of Bookkeeping educational resources that suit the needs of students in Form 1 to 4 through our platform",
       },
     ],
     priceAll: "$200 All Course",
@@ -202,9 +202,9 @@ export const coursesCard = [
     coursesName: "COMMERCE",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
-        name: "by Ram Gurung",
-        totalTime: "30 lectures (125 hrs)",
+        dcover: "../images/courses/download15.png ",
+        name: "by VolunteerEd",
+        totalTime: "We haven't left out our students with needs in commerce, in this segment you'll have an extensive range of commerce educational resources at your fingertips that cater to the needs of students in Form 1 to 4. ",
       },
     ],
     priceAll: "$200 All Course",
