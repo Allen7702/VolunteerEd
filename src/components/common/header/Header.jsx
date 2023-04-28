@@ -1,7 +1,12 @@
-import React, { useState } from "react"
 import { Link } from "react-router-dom"
 import Head from "./Head"
 import "./header.css"
+import { useEffect, useState } from 'react';
+
+
+
+  
+
 
 const Header = () => {
   const [click, setClick] = useState(false)
@@ -9,7 +14,7 @@ const Header = () => {
   return (
     <>
       <Head />
-      <header>
+      <header className="toss">
         <nav className='flexSB'>
           <ul className={click ? "mobile-nav" : "flexSB "} onClick={() => setClick(false)}>
             <li>
@@ -21,20 +26,24 @@ const Header = () => {
             </li>
            
             <li>
-              <Link to='/pricing'>Pricing</Link>
-            </li>
-            <li>
               <Link to='/contact'>Contact</Link>
             </li>
+           
+              <li className="nav-item">
+                <Link to="/resources" className="nav-link">
+                  Resources
+                </Link>
+              </li>
+           
+            
             <li>
-              <Link to='/courses'>Resources</Link>
-            </li>
-            <li>
-              <Link to='/login'>Login</Link>
+              <Link to='/login'>Login</Link>  
             </li>
             <li>
             <Link to='/register'>Register</Link>
           </li>
+        
+
           </ul>
          
           <button className='toggle' onClick={() => setClick(!click)}>

@@ -9,7 +9,7 @@ const Hero = () => {
         <div className='container'>
           <div className='row'>
             <Heading subtitle='Welcome To VolunteerEd' title='An online platform for volunteering' />
-            <p>Our platform connects volunteers, donors, and students to build a sustainable education system in rural Tanzania.</p>
+            <p className="text-map">Our platform connects volunteers, donors, and students to build a sustainable education system in rural Tanzania.</p>
             <div className='button'>
               <button className='primary-btn'>
                 GET STARTED NOW <i className='fa fa-long-arrow-alt-right'></i>
