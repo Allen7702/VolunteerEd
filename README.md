@@ -5,6 +5,14 @@
 
 - <h2 align="center">📝Track **Education** </h2>
 
+
+<h2>Visuals</h2>
+
+
+![Screenshot from 2023-04-28 03-15-46](https://user-images.githubusercontent.com/82793671/235128913-fe09f3c5-45cf-4f5f-a5d1-9e1f0d460e51.png)
+![Screenshot from 2023-04-28 03-14-34](https://user-images.githubusercontent.com/82793671/235129367-81a55925-260f-416e-9af0-7858e8234f80.png)
+![Screenshot from 2023-04-28 03-14-59](https://user-images.githubusercontent.com/82793671/235129756-8e0e7da8-cb3d-4b02-bd52-89f57b1e0e3e.png)
+
 <h3 align="left">Team Members:</h3>
 <p align="left">Allen Mgeyekwa
 </p>
@@ -16,4 +24,3 @@
 </p>
 <p align="left">Paulamillie Makafu
 </p>
-
