@@ -23,7 +23,7 @@ const CoursesCard = () => {
                     <i className='fa fa-star'></i>
                     <i className='fa fa-star'></i>
                     <i className='fa fa-star'></i>
-                    <label htmlFor=''>(5.0)</label>
+                    <label htmlFor=''></label>
                   </div>
                   <div className='details'>
                     {val.courTeacher.map((details) => (
@@ -43,9 +43,7 @@ const CoursesCard = () => {
                 </div>
               </div>
               <div className='price'>
-                <h3>
-                  {val.priceAll} / {val.pricePer}
-                </h3>
+                
               </div>
               <button className='outline-btn'>ENROLL NOW !</button>
             </div>
