@@ -14,7 +14,7 @@ const Donation = () => {
     <>
     <section className="donation" id="donation">
    
-    <Heading subtitle='DONATIONS' title='Donate for a better Tommorror' />
+    <Heading subtitle='DONATIONS' title='Donate for a better Tomorrow' />
       <div className="container">
         <div className="donation-container" data-center-center="opacity:1;top:0;" data-0-bottom="opacity:1;top:100px;">
           <div className="card">
