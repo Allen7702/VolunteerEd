@@ -14,7 +14,7 @@ const Footer = () => {
           <div className='box logo'>
             <h1>VolunteerEd</h1>
             <span>PLATFORM FOR VOLUNTEERING</span>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+            <p>"Education is the most powerful weapon you can use to change the world." - Nelson Mandela</p>
 
             <FaFacebook />
             <FaTwitter />
@@ -42,19 +42,19 @@ const Footer = () => {
           </div>
          
           <div className='box last'>
-            <h3>Have a Questions?</h3>
+            <h3>Have a Question?</h3>
             <ul>
               <li>
               <FaFacebook />
-                203 Fake St. Mountain View, San Francisco, California, USA
+              College of Information and Communication Technologies(CoICT), Kijitonyama, Dar-es-salaam, Tanzania
               </li>
               <li>
               <FaFacebook />
-                +2 392 3929 210
+                +255 74392 3929
               </li>
               <li>
               <FaFacebook />
-                info@yourdomain.com
+                info@VolunteerEd.com
               </li>
             </ul>
           </div>

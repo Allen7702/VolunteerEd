@@ -268,28 +268,28 @@ export const price = [
 ]
 export const faq = [
   {
-    title: "How to Enroll This Online Courses?",
-    desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "Who can volunteer to teach on your platform?",
+    desc: "Anyone who is passionate about education and has the necessary skills and qualifications can volunteer to teach on our platform.",
   },
   {
-    title: "Where It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "Do I need to have teaching experience to volunteer?",
+    desc: "Although teaching experience can be advantageous, it is not a mandatory requirement for becoming a volunteering teacher on our platform. We value passion and believe that individuals with the necessary skills and qualifications can make a meaningful impact on the education of children in rural areas.",
   },
   {
-    title: "How It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "How can I become a volunteering teacher?",
+    desc: "You can sign up to become a volunteering teacher on our website. After completing the registration process, you will be matched with a rural school that suits your skills and qualifications.",
   },
   {
-    title: "How to Enroll This Online Courses?",
-    desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "Can I choose which school I want to volunteer for?",
+    desc: "You can express your preference, but we cannot guarantee that you will be matched with your preferred school. We strive to match volunteering teachers with schools based on their skills and qualifications, as well as the needs of the school.",
   },
   {
-    title: "Where It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "How do you ensure the safety of students and volunteering teachers?",
+    desc: "We conduct background checks on all volunteering teachers and have a strict code of conduct that they must adhere to. We also work closely with rural schools to ensure the safety of students and volunteering teachers.",
   },
   {
-    title: "How It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "How can I donate or support your cause?",
+    desc: "You can make a donation on our website or contact us to learn more about other ways you can support our cause. Your support can help us provide quality education to more children in rural areas.",
   },
 ]
 export const blog = [
@@ -299,7 +299,7 @@ export const blog = [
     date: "JAN. 18, 2021",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "\"Education is the most powerful weapon you can use to change the world.\" - Nelson Mandela",
     cover: "../images/blog/b1.webp",
   },
   {
@@ -308,7 +308,7 @@ export const blog = [
     date: "API. 25, 2022",
     com: "5 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "\"Education is the most powerful weapon you can use to change the world.\" - Nelson Mandela",
     cover: "../images/blog/b2.webp",
   },
   {
@@ -317,7 +317,7 @@ export const blog = [
     date: "MAY. 15, 2022",
     com: "10 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "\"Education is the most powerful weapon you can use to change the world.\" - Nelson Mandela",
     cover: "../images/blog/b3.webp",
   },
   {
@@ -326,7 +326,7 @@ export const blog = [
     date: "JAN. 02, 2022",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "\"Education is the most powerful weapon you can use to change the world.\" - Nelson Mandela",
     cover: "../images/blog/b4.webp",
   },
   {
@@ -335,7 +335,7 @@ export const blog = [
     date: "DEC. 14, 2022",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "\"Education is the most powerful weapon you can use to change the world.\" - Nelson Mandela.",
     cover: "../images/blog/b5.webp",
   },
   {
@@ -344,7 +344,7 @@ export const blog = [
     date: "JAN. 18, 2021",
     com: "12 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "\"Education is the most powerful weapon you can use to change the world.\" - Nelson Mandela",
     cover: "../images/blog/b6.webp",
   },
 ]
