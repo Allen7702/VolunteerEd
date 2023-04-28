@@ -120,7 +120,7 @@ export const coursesCard = [
       {
         dcover: "./images/back.webp",
         name: "by Sunil Bishowkaram",
-        totalTime: "200 lectures (300 hrs)",
+        totalTime: "Our platform provides a broad spectrum of English educational materials designed to accommodate students from Form 1 to 6.",
       },
     ],
     priceAll: "$500 All Course",
