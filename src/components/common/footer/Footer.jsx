@@ -14,11 +14,12 @@ const Footer = () => {
           <div className='box logo'>
             <h1>VolunteerEd</h1>
             <span>PLATFORM FOR VOLUNTEERING</span>
+
             <p>"Education is the most powerful weapon you can use to change the world." - Nelson Mandela</p>
 
-            <FaFacebook />
-            <FaTwitter />
-            <FaInstagramSquare />
+
+
+           
           </div>
           <div className='box link'>
             <h3>Explore</h3>
@@ -41,20 +42,22 @@ const Footer = () => {
             </ul>
           </div>
          
-          <div className='box last'>
-            <h3>Have a Question?</h3>
+
+     
+          <div className='box link'>
+            <h3>Have a Questions?</h3>
             <ul>
               <li>
-              <FaFacebook />
-              College of Information and Communication Technologies(CoICT), Kijitonyama, Dar-es-salaam, Tanzania
+             College of Information and Communication Technologies(CoICT), Kijitonyama, Dar-es-salaam, Tanzania    
+             </li>
+              <li>
+              
+                +255 786 508 804
               </li>
               <li>
-              <FaFacebook />
-                +255 74392 3929
-              </li>
-              <li>
-              <FaFacebook />
-                info@VolunteerEd.com
+              
+                info@volunteered.com
+
               </li>
             </ul>
           </div>
@@ -62,7 +65,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2022 All rights reserved | This template is made with <i className='fa fa-heart'></i> by GorkhCoder
+          Copyright ©2022 All rights reserved 
         </p>
       </div>
     </>

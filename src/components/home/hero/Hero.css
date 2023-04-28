@@ -1,5 +1,5 @@
 .hero {
-  background-image: url("../../../../public/images/kid4.jpg");
+  background-image: url("../../../../public/images/kid4+.jpg");
   background-size: cover;
   background-attachment: fixed;
   position: absolute;
@@ -20,6 +20,10 @@
   margin: 0;
   padding: 0;
 }
+.text-map{
+  font-size: 25px;
+  font-weight: 500;
+}
 @media screen and (max-width: 768px) {
   .margin {
     height: 40vh;
@@ -33,3 +37,4 @@
     width: 100%;
   }
 }
+

@@ -112,6 +112,10 @@
 .online .box:hover h1 {
   color: #fff;
 }
+.tacky{
+  padding-bottom: 100px;
+    padding-top: 100px;
+}
 /*-------------online---------*/
 @media screen and (max-width: 768px) {
 }
