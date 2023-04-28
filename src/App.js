@@ -9,15 +9,21 @@ import Footer from "./components/common/footer/Footer"
 import Home from "./components/home/Home"
 import Login from "./components/login_register/Login"
 import Register from "./components/login_register/Register"
+
+
+
+
 function App() {
+  
   return (
     <>
+   
       <Router>
         <Header />
         <Switch>
           <Route exact path='/' component={Home} />
           <Route exact path='/about' component={About} />
-          <Route exact path='/courses' component={CourseHome} />
+          <Route exact path='/resources' component={CourseHome} />
           <Route exact path='/pricing' component={Pricing} />
        
           <Route exact path='/contact' component={Contact} />
@@ -26,6 +32,7 @@ function App() {
         </Switch>
         <Footer />
       </Router>
+     
     </>
   )
 }

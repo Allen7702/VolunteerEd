@@ -14,11 +14,9 @@ const Footer = () => {
           <div className='box logo'>
             <h1>VolunteerEd</h1>
             <span>PLATFORM FOR VOLUNTEERING</span>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+            <p>A Platform aimed at recruitung volunteers to aid rural schools that are in need of schools.</p>
 
-            <FaFacebook />
-            <FaTwitter />
-            <FaInstagramSquare />
+           
           </div>
           <div className='box link'>
             <h3>Explore</h3>
@@ -41,20 +39,20 @@ const Footer = () => {
             </ul>
           </div>
          
-          <div className='box last'>
+          <div className='box link'>
             <h3>Have a Questions?</h3>
             <ul>
               <li>
-              <FaFacebook />
-                203 Fake St. Mountain View, San Francisco, California, USA
+              
+                COICT Dar es Salaam Tanzania
               </li>
               <li>
-              <FaFacebook />
-                +2 392 3929 210
+              
+                +255 786 508 804
               </li>
               <li>
-              <FaFacebook />
-                info@yourdomain.com
+              
+                info@volunteer.com
               </li>
             </ul>
           </div>
@@ -62,7 +60,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2022 All rights reserved | This template is made with <i className='fa fa-heart'></i> by GorkhCoder
+          Copyright ©2022 All rights reserved 
         </p>
       </div>
     </>

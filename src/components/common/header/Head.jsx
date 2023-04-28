@@ -3,7 +3,7 @@ import React from "react"
 const Head = () => {
   return (
     <>
-      <section className='head'>
+      <section className='head toss'>
         <div className='container flexSB'>
           <div className='logo'>
             <h1>VolunteerEd</h1>
