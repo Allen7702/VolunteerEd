@@ -44,13 +44,13 @@ export const awrapper = [
 export const coursesCard = [
   {
     id: 1,
-    cover: "../images/courses/c1.png",
-    coursesName: "Introducing to Software Engineering",
+    cover: "../images/courses/download1.jpeg",
+    coursesName: "PHYSICS",
     courTeacher: [
       {
         dcover: "./images/back.webp",
         name: "by John Smith",
-        totalTime: "50 lectures (190 hrs)",
+        totalTime: "Access to a vast array of educational materials designed to cater to students in Form 1 to 6. If you are looking to revise physics concepts our platform has got you covered.",
       },
     ],
     priceAll: "$100 All Course",
@@ -58,13 +58,13 @@ export const coursesCard = [
   },
   {
     id: 2,
-    cover: "../images/courses/c2.png",
-    coursesName: "Enhancing Adobe Photoshop CC 2020 Skills",
+    cover: "../images/courses/images2-fotor-bg-remover-20230428105142.png",
+    coursesName: "MATHEMATICS",
     courTeacher: [
       {
         dcover: "./images/back.webp",
         name: "by Ram Gurung",
-        totalTime: "30 lectures (125 hrs)",
+        totalTime: "With our extensive collection of mathematics educational resources, you'll have all the tools you need to succeed.",
       },
     ],
     priceAll: "$200 All Course",
@@ -72,13 +72,13 @@ export const coursesCard = [
   },
   {
     id: 3,
-    cover: "../images/courses/c3.png",
-    coursesName: "HTML, CSS, and Javascript for Web Developers",
+    cover: "../images/courses/download3-fotor-bg-remover-20230428111231.png",
+    coursesName: "CHEMISTRY",
     courTeacher: [
       {
         dcover: "./images/back.webp",
         name: "by Saroj Nepal",
-        totalTime: "50 lectures (50 hrs)",
+        totalTime: "You'll have access to a plethora of educational materials in chemistry catered to students in Form 1 to 6.",
       },
     ],
     priceAll: "$50 All Course",
@@ -86,13 +86,13 @@ export const coursesCard = [
   },
   {
     id: 4,
-    cover: "../images/courses/c4.png",
-    coursesName: "Introducing to Programming with WordPress",
+    cover: "../images/courses/download4-fotor-bg-remover-20230428111559.png",
+    coursesName: "BIOLOGY",
     courTeacher: [
       {
         dcover: "./images/back.webp",
         name: "by Prabin Thapa Mager",
-        totalTime: "20 lectures (20 hrs)",
+        totalTime: "You'll have an extensive range of biology educational resources at your fingertips that cater to the needs of students in Form 1 to 6.",
       },
     ],
     priceAll: "$30 All Course",
@@ -100,13 +100,13 @@ export const coursesCard = [
   },
   {
     id: 5,
-    cover: "../images/courses/c5.png",
-    coursesName: "Introducing to Programming with ReactJS",
+    cover: "../images/courses/download5-fotor-bg-remover-20230428112720.png",
+    coursesName: "KISWAHILI",
     courTeacher: [
       {
         dcover: "./images/back.webp",
         name: "by Sunil Bishowkaram",
-        totalTime: "100 lectures (150 hrs)",
+        totalTime: "You'll be able to access a diverse range of kiswhili educational resources that suit the needs of students in Form 1 to 6 through our platform.",
       },
     ],
     priceAll: "$300 All Course",
@@ -114,8 +114,8 @@ export const coursesCard = [
   },
   {
     id: 6,
-    cover: "../images/courses/c6.png",
-    coursesName: "Learn Frontend Programming Language",
+    cover: "../images/courses/download5-fotor-bg-remover-20230428113450.png",
+    coursesName: "ENGLISH",
     courTeacher: [
       {
         dcover: "./images/back.webp",
@@ -128,8 +128,8 @@ export const coursesCard = [
   },
   {
     id: 7,
-    cover: "../images/courses/c7.png",
-    coursesName: "Introducing to with HTML / CSS",
+    cover: "../images/courses/download6-fotor-bg-remover-2023042811462.png",
+    coursesName: "HISTORY",
     courTeacher: [
       {
         dcover: "./images/back.webp",
@@ -142,8 +142,8 @@ export const coursesCard = [
   },
   {
     id: 8,
-    cover: "../images/courses/c8.png",
-    coursesName: "Introducing to with JAVA",
+    cover: "../images/courses/images6-fotor-bg-remover-20230428115538.png",
+    coursesName: "CIVICS",
     courTeacher: [
       {
         dcover: "./images/back.webp",
@@ -156,8 +156,8 @@ export const coursesCard = [
   },
   {
     id: 9,
-    cover: "../images/courses/c9.png",
-    coursesName: "Introducing to with HTML / CSS / JAVASCRIPT",
+    cover: "../images/courses/download9-fotor-bg-remover-2023042812540.png",
+    coursesName: "GEOGRAPHY",
     courTeacher: [
       {
         dcover: "./images/back.webp",
@@ -167,6 +167,48 @@ export const coursesCard = [
     ],
     priceAll: "$20 All Course",
     pricePer: "$3 per month",
+  },
+  {
+    id: 10,
+    cover: "../images/courses/download-fotor-bg-remover-20230428121127.png",
+    coursesName: "ICT",
+    courTeacher: [
+      {
+        dcover: "./images/back.webp",
+        name: "by Ram Gurung",
+        totalTime: "30 lectures (125 hrs)",
+      },
+    ],
+    priceAll: "$200 All Course",
+    pricePer: "$25 per month",
+  },
+  {
+    id: 11,
+    cover: "../images/courses/images12-fotor-bg-remover-20230428122044.png",
+    coursesName: "BOOKKEEPING",
+    courTeacher: [
+      {
+        dcover: "./images/back.webp",
+        name: "by Ram Gurung",
+        totalTime: "30 lectures (125 hrs)",
+      },
+    ],
+    priceAll: "$200 All Course",
+    pricePer: "$25 per month",
+  },
+  {
+    id: 12,
+    cover: "../images/courses/images13-fotor-bg-remover-20230428122352.png",
+    coursesName: "COMMERCE",
+    courTeacher: [
+      {
+        dcover: "./images/back.webp",
+        name: "by Ram Gurung",
+        totalTime: "30 lectures (125 hrs)",
+      },
+    ],
+    priceAll: "$200 All Course",
+    pricePer: "$25 per month",
   },
 ]
 export const online = [
